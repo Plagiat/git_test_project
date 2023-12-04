@@ -1,3 +1,4 @@
+# Author
 def new_function():
     print("Some realisation")
 
