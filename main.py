@@ -1,5 +1,5 @@
 def new_function():
-    print("Some realisation")
+    print("Realisation from newBranch")
 
 
 def print_hi(name):
