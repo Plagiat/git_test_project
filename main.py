@@ -1,6 +1,6 @@
 # Author
 def new_function():
-    print("Some realisation")
+    print("Realisation from printOne")
 
 
 def print_hi(name):
