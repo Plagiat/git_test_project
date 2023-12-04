@@ -1,6 +1,6 @@
-# Author
 def new_function():
     print("Realisation from printOne")
+    print("Realisation from newBranch")
 
 
 def print_hi(name):
@@ -12,5 +12,4 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi('PyCharm')
-    print(1)
 
